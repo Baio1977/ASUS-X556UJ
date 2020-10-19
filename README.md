@@ -9,11 +9,11 @@
 | iGPU             | Intel® HD Graphics 520             |
 | Lan              | Realtek 8111                       |
 | Audio            | Realtek ALC255                     |
-| Ram              | 8 Gb DDR4 2400 Mhz                 |
-| Wifi + Bluetooth | BCM943602BAED                      |
-| NVMe             | TOSHIBA KBG4 256 Gb                |
+| Ram              | 8 Gb DDR3 1600 Mhz                 |
+| Wifi + Bluetooth | Realtek                            |
+| DGPU             | NVIDIA® GeForce® 920M              |
 | SSD              | Crucial BX500 240 Gb               |
-| SmBios           | MacMini 8,1                        |
+| SmBios           | MacbookPro 13.3                    |
 | BootLoader       | Clover                             |
 
 ### Touchpad I2C:
