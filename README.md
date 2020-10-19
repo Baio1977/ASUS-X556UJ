@@ -16,6 +16,11 @@
 | SmBios           | MacMini 8,1                        |
 | BootLoader       | Clover                             |
 
+### Touchpad I2C:
+
+![descrizione](./Screenshot/2.jpg)
+![descrizione](./Screenshot/3.jpg)
+
 ## Credits
 
 - [Apple](https://apple.com) for macOS;
