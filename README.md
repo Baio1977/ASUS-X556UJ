@@ -1,2 +1,2 @@
 # ASUS-X556UJ
-![descrizione](./Screenshot/pc.jpg)
+![descrizione](./Screenshot/1.jpg)
